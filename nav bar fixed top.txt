@@ -1,0 +1,53 @@
+// mail et teléphone avec icone
+
+   <div class="pull-right text-right">
+                            <ul class="list-inline">
+                                <li>
+                                    <div><i class="fa fa-envelope-o"></i> benjamin.dietlin@gmail.com</div>
+                                </li>
+                                <li>
+                                    <div class="meta-item"><i class="fa fa-mobile"></i> 06 12 37 09 94</div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+			
+			
+// mail et teléphone avec icone et réseaux sociaux
+
+     <nav class="navbar navbar-default navbar-fixed-top fadeInDown" data-wow-delay="0.5s">
+            <div class="top-bar smoothie hidden-xs">
+                <div class="container">
+                    <div class="clearfix">
+                        <ul class="list-inline social-links wow pull-left">
+                            
+                            <li>
+                                <a href="#"><i class="fa fa-pinterest"></i></a>
+                            </li>
+                            
+                            <li>
+                                <a href="#"><i class="fa fa-facebook"></i></a>
+                            </li>
+                            
+                            <li>
+                                <a href="#"><i class="fa fa-linkedin"></i></a>
+                            </li>
+                        </ul>
+                        <div class ="container-center">
+                            <a class="navbar-brand smoothie logo logo-light" href="index.html"><img src="assets/img/logo_Lutherie_Benjamin Dietlin.png" alt="logo" ></a>
+                        </div>
+                        <div class="pull-right text-right">
+                            <ul class="list-inline">
+                                <li>
+                                    <div><i class="fa fa-envelope-o"></i> benjamin.dietlin@gmail.com</div>
+                                </li>
+                                <li>
+                                    <div class="meta-item"><i class="fa fa-mobile"></i> 06 12 37 09 94</div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>

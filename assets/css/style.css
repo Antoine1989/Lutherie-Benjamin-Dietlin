@@ -330,7 +330,7 @@ body {
 }
 
 @media (min-width: 1200px) {
-    .container {
+    .containeruid {
         width: 1370px;
     }
 }
@@ -356,12 +356,13 @@ body {
 }
 
 .btn-primary {
+    border-radius: 20;
     border-color: #333;
     border-radius: 0;
     text-transform: uppercase;
     font-weight: 700;
     color: #333;
-    background-color: transparent;
+    background-color: #EAC4C3  ;
     padding: 15px 0px;
     letter-spacing: 1px;
     -webkit-transition: all .5s ease-in-out;
@@ -1081,11 +1082,13 @@ section h3.section-subheading {
 /*-----------------------------------------------------------------------------------*/
 
 .blog-item .post-title,
+
 .project-item .post-title {
     margin-top: 0;
     margin-bottom: 20px;
     font-size: 22px;
     letter-spacing: 4px;
+
 }
 
 .meta-item {
